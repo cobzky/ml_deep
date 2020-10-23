@@ -1,0 +1,5 @@
+\contentsline {section}{\numberline {1}Introduction and words of warning}{2}
+\contentsline {section}{\numberline {2}Linear Algebra}{2}
+\contentsline {section}{\numberline {3}ML - High level}{2}
+\contentsline {section}{\numberline {4}Feed forward networks}{2}
+\contentsline {section}{\numberline {5}References}{4}
